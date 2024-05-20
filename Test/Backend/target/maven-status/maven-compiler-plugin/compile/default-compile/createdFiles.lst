@@ -1,0 +1,9 @@
+main/java/com/example/repository/UserRepository.class
+main/java/com/example/model/User.class
+main/java/com/example/RentifyApplication.class
+main/java/com/example/controller/RentifyController.class
+main/java/com/example/model/Property.class
+main/java/com/example/exception/ResourceNotFoundException.class
+main/java/com/example/service/EmailService.class
+main/java/com/example/config/SecurityConfig.class
+main/java/com/example/repository/PropertyRepository.class
